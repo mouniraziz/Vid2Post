@@ -1,4 +1,4 @@
-![alt text](./files/banner.png)
+![alt text](./files/banner.png =100px)
 
 Vid2Post AI is an AI Streamlit app, leverages the latest advancements in AI technology, including Google LLMs (Palm / Gemini), to revolutionize the way you convert your videos into blog articles and tweets. With Vid2Post AI, you can effortlessly download your videos from YouTube or upload them from your device, and watch as they're transformed into ready-to-publish social media content.
 
