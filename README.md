@@ -16,7 +16,7 @@ Benefits:
 
 Ideal For: Digital Marketers, Social Media Managers, Content Creators, Students and Businesses
 
-To launch the app:
+Demo:
 ```
-streamlit run main.py
+https://vid2post-jtjxnqndqt6qtwruyauzvo.streamlit.app
 ```
