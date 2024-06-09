@@ -3,4 +3,5 @@ moviepy
 openai-whisper
 langchain
 langchain-google-genai
+langchain-community
 mdpdf
