@@ -5,3 +5,4 @@ langchain
 langchain-google-genai
 langchain-community
 mdpdf
+ffmpeg
