@@ -1,0 +1,7 @@
+pytube==15.0.0
+moviepy==1.0.3
+openai-whisper==20231117
+langchain==0.1.9
+langchain-google-genai==0.0.9
+mdpdf==0.0.18
+
